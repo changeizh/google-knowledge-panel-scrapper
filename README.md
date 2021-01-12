@@ -7,9 +7,6 @@ Use git to clone the repository, then install required libraries with the packag
 
 
 ```
-
-## Usage
-```bash
 python knowledge-panel-scraper.py inputfile.csv
 ```
 
